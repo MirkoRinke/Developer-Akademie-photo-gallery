@@ -427,20 +427,6 @@ $breakpoint-xxs: 22em; //
       @media (max-width: $breakpoint-xs) {
         font-size: 16px;
       }
-
-      // &::after {
-      //   content: "|";
-      //   color: black;
-      //   margin-left: 5px;
-      //   margin-right: 5px;
-      //   @media (max-width: $breakpoint-xs) {
-      //     display: none;
-      //   }
-      // }
-      // &[href="https://www.example.com/"]::after
-      // {
-      //   content: none;
-      // }
     }
   }
 }
