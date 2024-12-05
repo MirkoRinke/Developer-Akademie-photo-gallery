@@ -7,10 +7,6 @@
 
 Welcome to my second project as part of the Developer Academy! In this project, I created a photo gallery website for Jane Doe, showcasing her professional photography and how she brings businesses to life with stunning images.
 
-## 🔗 Links
-
-- [Live Site URL](https://magnificent-panda-8523c0.netlify.app/)
-
 
 ## 🛠️ Built with
 
@@ -33,4 +29,5 @@ Welcome to my second project as part of the Developer Academy! In this project, 
 
 ## ✍️ Author
 
-- Website - [My Github](https://github.com/MirkoRinke)
+ - [Webiste](https://mirkorinke.dev)
+ - [Github](https://github.com/MirkoRinke)
